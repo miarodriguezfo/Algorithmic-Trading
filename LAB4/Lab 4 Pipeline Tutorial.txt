@@ -1,0 +1,2 @@
+Go to Learn -> Tutorials --> Pipeline Tutorial and follow Lectures 1 to 11  creating in Github a notebook or an algorithm depending the goal of the lesson.
+
